@@ -34,9 +34,9 @@
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-### thank
 
-Calculator 
+
+##Calculator 
 1. 초기화 버튼 생성
 2. 보여지는 글자수 제한 해제
 3. 백그라운드와 바디의 색상변경
